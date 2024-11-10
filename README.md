@@ -17,8 +17,13 @@
       <td valign="top" width="50%">
         <h2 align="center">Systems Engineering</h2>
         <ul>
-          <li>🔬 Currently working on <b>developing Linux device drivers in Rust</b>.</li>
-          <li>⚙️ Previously completed <b>database internals projects</b> and contributed to <b>open-source projects</b> like TiDB.</li>
+          <li>Operating system -:
+              <ul>
+                <li>Weenix Kernel -> Design and implemented a toy OS kernel (CSCI402 course)</li>
+                <li>Linux kernel drivers in rust and RAG to automate c to Rust drivers</li>
+              </ul>
+          </li>
+          <li>Computer networks</li>
           <li>💡 Passionate about <b>database systems</b> and low-level <b>system engineering</b>, with an interest in understanding and building robust engineering processes.</li>
         </ul>
       </td>
