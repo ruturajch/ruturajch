@@ -4,19 +4,24 @@
 ---
 
 <div align="center">
-  <h2>Software Engineering</h2>
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h2 align="center">Software Engineering</h2>
+        <ul>
+          <li>🔭 Actively working on <b>a Salesforce app</b>, <b>a React library for advanced search</b> in Jira-style, and <b>chatbot development</b> for the Viterbi STEM center.</li>
+          <li>🌐 Recently rebuilt an <b>inventory management app</b> from PHP and Angular to FastAPI and Next.js.</li>
+          <li>📂 Experienced in <b>full-stack development</b> and building scalable applications that improve user experience.</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h2 align="center">Systems Engineering</h2>
+        <ul>
+          <li>🔬 Currently working on <b>developing Linux device drivers in Rust</b>.</li>
+          <li>⚙️ Previously completed <b>database internals projects</b> and contributed to <b>open-source projects</b> like TiDB.</li>
+          <li>💡 Passionate about <b>database systems</b> and low-level <b>system engineering</b>, with an interest in understanding and building robust engineering processes.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
-
-- 🔭 Actively working on **a Salesforce app**, **a React library for advanced search** in Jira-style, and **chatbot development** for the Viterbi STEM center.
-- 🌐 Recently rebuilt an **inventory management app** from PHP and Angular to FastAPI and Next.js.
-- 📂 Experienced in **full-stack development** and building scalable applications that improve user experience.
-
----
-
-<div align="center">
-  <h2>Systems Engineering</h2>
-</div>
-
-- 🔬 Currently working on **developing Linux device drivers in Rust**.
-- ⚙️ Previously completed **database internals projects** and contributed to **open-source projects** like TiDB.
-- 💡 Passionate about **database systems** and low-level **system engineering**, with an interest in understanding and building robust engineering processes.
