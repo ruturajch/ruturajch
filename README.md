@@ -17,13 +17,17 @@
       <td valign="top" width="50%">
         <h2 align="center">Systems Engineering</h2>
         <ul>
-          <li>Operating system -:
+          <li>Operating system:
               <ul>
                 <li>Weenix Kernel -> Design and implemented a toy OS kernel (CSCI402 course)</li>
-                <li>Linux kernel drivers in rust and RAG to automate c to Rust drivers</li>
+                <li>Linux kernel drivers in rust and RAG to automate c to Rust drivers.</li>
               </ul>
           </li>
-          <li>Computer networks</li>
+          <li>Computer networks:
+              <ul>
+                Networking protocols in go
+              <ul>
+          </li>
           <li>💡 Passionate about <b>database systems</b> and low-level <b>system engineering</b>, with an interest in understanding and building robust engineering processes.</li>
         </ul>
       </td>
