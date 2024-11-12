@@ -28,7 +28,11 @@
                 Networking protocols in go (HTTPS, TCP, UDP)
               <ul>
           </li>
-          <li>💡 Passionate about <b>database systems</b> and low-level <b>system engineering</b>, with an interest in understanding and building robust engineering processes.</li>
+          <li>Database system:
+            <ul>
+              <li>Implemented first 4 solution of CMU Database system class. ()<li>
+            <ul>
+          </li>
         </ul>
       </td>
     </tr>
