@@ -25,7 +25,7 @@
           </li>
           <li>Computer networks:
               <ul>
-                Networking protocols in go (HTTPS, TCP, UDP)
+                 <li>Networking protocols in go (HTTPS, TCP, UDP) </li>
               </ul>
           </li>
           <li>Database system:
