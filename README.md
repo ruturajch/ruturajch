@@ -26,11 +26,11 @@
           <li>Computer networks:
               <ul>
                 Networking protocols in go (HTTPS, TCP, UDP)
-              <ul>
+              </ul>
           </li>
           <li>Database system:
             <ul>
-              <li>Implemented first 4 solution of CMU Database system class. ()<li>
+              <li>Implemented first 4 solution of CMU Database system class. (https://github.com/ruturajch/CMU-DB-course-solution.git)<li>
             <ul>
           </li>
         </ul>
