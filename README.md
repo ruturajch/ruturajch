@@ -21,7 +21,6 @@
               <ul>
                 <li>Weenix Kernel - Design and implemented a toy OS kernel (CSCI402 course)https://github.com/ruturajch/Weenix-OS</li>
                 <li>Linux kernel drivers in rust and RAG to automate c to Rust drivers.(https://github.com/ruturajch/device-drivers-rust)</li>
-                <li>Operating system MIT class howmework 6.1810</li>
               </ul>
           </li>
           <li>Computer networks:
