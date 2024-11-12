@@ -10,8 +10,8 @@
         <h2 align="center">Software Engineering</h2>
         <ul>
           <li>🔭 Actively working on <b>a Salesforce app</b>, <b>a React library for advanced search</b> in Jira-style, and <b>chatbot development</b> for the Viterbi STEM center.</li>
-          <li>🌐 Recently rebuilt an <b>inventory management app</b> from PHP and Angular to FastAPI and Next.js.</li>
-          <li>📂 Experienced in <b>full-stack development</b> and building scalable applications that improve user experience.</li>
+          <li>Rebuilt an <b>inventory management app</b> from PHP and Angular to FastAPI and Next.js.</li>
+          <li></li> Experienced in <b>full-stack development</b> and building scalable applications that improve user experience.</li>
         </ul>
       </td>
       <td valign="top" width="50%">
@@ -19,7 +19,7 @@
         <ul>
           <li>Operating system:
               <ul>
-                <li>Weenix Kernel -> Design and implemented a toy OS kernel (CSCI402 course)</li>
+                <li>[Weenix Kernel -> Design and implemented a toy OS kernel (CSCI402 course)] (https://github.com/ruturajch/Weenix-OS) </li>
                 <li>Linux kernel drivers in rust and RAG to automate c to Rust drivers.</li>
                 <li>Operating system MIT class howmework 6.1810</li>
               </ul>
